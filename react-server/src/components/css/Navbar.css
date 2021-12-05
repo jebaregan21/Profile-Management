@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif&display=swap");
+
+.linkdisable {
+    text-decoration: none;
+    color: white;
+}
+
+.current{
+    border-radius: 5%;
+}
+
+.brand:hover{
+    cursor: pointer;
+}
+
+.nav-break{
+    margin-left: 30px;
+}
